@@ -1,5 +1,5 @@
 //realiza una transacción que no se complete al provocar un rollback
-package com.dam2.ut2;
+package org.example;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

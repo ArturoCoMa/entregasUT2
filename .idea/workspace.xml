@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c42037f-a6a3-413e-9e80-be6f8857e8d5" name="Changes" comment="" />
+    <list default="true" id="0c42037f-a6a3-413e-9e80-be6f8857e8d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/borraJuegos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cuentaJuegos.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PoolCnn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PoolCnn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ejJDBC6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HfenzTC15gM5tSBMtiZf58nyRX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +37,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ciclosm/IdeaProjects/entregasUT2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668680737063</updated>
+      <workItem from="1668680738340" duration="457000" />
+      <workItem from="1668681509988" duration="22000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

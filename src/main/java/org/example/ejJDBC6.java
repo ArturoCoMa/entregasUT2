@@ -1,6 +1,6 @@
 //utiliza al menos una función y un procedimiento. Adjunta el código de las funciones y procedimientos también.
 
-package com.dam2.ut2;
+package org.example;
 
 import java.sql.*;
 import java.util.Scanner;
@@ -35,7 +35,7 @@ public class ejJDBC6 {
             //ejecución del procedure
             System.out.println("¿Qué juego quieres borrar? Escribe su ID");
             int id = tec.nextInt();
-            String sqlCall = "CALL public.borrajuegos(?)";
+            String sqlCall = "CALL public.borraJuegos(?)";
             cstmt = cnn.prepareCall(sqlCall);
             cstmt.setInt(1, id);
             cstmt.execute();

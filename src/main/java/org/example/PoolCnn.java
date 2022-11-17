@@ -1,5 +1,5 @@
 //haz uso a lo largo del proyecto de un agrupamiento (pool) de conexiones
-package com.dam2.ut2;
+package org.example;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 

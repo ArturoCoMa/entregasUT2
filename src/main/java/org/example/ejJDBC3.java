@@ -1,6 +1,6 @@
 //realiza un ejemplo de código susceptible de sufrir ataque por inyección de SQL
 
-package com.dam2.ut2;
+package org.example;
 
 import java.sql.Connection;
 import java.sql.SQLException;

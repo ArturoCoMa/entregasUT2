@@ -1,6 +1,6 @@
 //Crea un proyecto JDBC que genere una base de datos con tu nombre y, al menos,
 //una tabla para el elemento con el que estés trabajando (discos, libros, videojuegos, etc).
-package com.dam2.ut2;
+package org.example;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

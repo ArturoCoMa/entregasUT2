@@ -1,7 +1,7 @@
 //sobre un ResultSet de todo el contenido de la tabla realiza al
 // menos una inserción, una modificación y un borrado utilizando,
 // al menos, 5 métodos de desplazamiento a lo largo del ResultSet
-package com.dam2.ut2;
+package org.example;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
